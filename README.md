@@ -10,6 +10,7 @@ Se recorre cada caracter de ambos datos, comparando su valores similares.
 Y se cuenta los valores que no coincidan.
 ```
 -------------------------------------------------------------------------------
+```
 Ejm:
 ;       DatoA = Camaron
 ;       DatoB = Cozador
@@ -24,7 +25,9 @@ Ejm:
 ;
 ;      Distancia de Levenshtein es 3  
 ;
+```
 -------------------------------------------------------------------------------
+```
 Ejm2:
 ;       DatoA = Camarones
 ;       DatoB = Cozador
@@ -41,6 +44,9 @@ Ejm2:
 ;
 ;En el caso del DatoA ser menor longitud, se empieza con el DatoB
 ;
+```
+-------------------------------------------------------------------------------
+```
 Ejm3:  
 ;       DatoA = Pan
 ;       DatoB = Pablo
@@ -55,3 +61,4 @@ Ejm3:
 ;
 ;      Distancia de Levenshtein es 3
 ;
+```
