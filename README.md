@@ -1,7 +1,7 @@
 # DistanciaLevenshtein
 -------------------------------------------------------------------------------
 Explicacion
-Si no se ingresa DatoA, la distancia es Longitud(DatoB).
+Si no se ingresa DatoA, la distancia es Longitud(DatoB)\n
 Si no se ingresa DatoB, la distancia es Longitud(DAtoA).
 Si no se ingresa Datos, la distancia es 0.
 Si se ingresa DatoA y DatoB...
