@@ -1,12 +1,12 @@
 # DistanciaLevenshtein
 -------------------------------------------------------------------------------
 Explicacion
-Si no se ingresa DatoA, la distancia es Longitud(DatoB)
-Si no se ingresa DatoB, la distancia es Longitud(DAtoA) 
-Si no se ingresa Datos, la distancia es 0
+Si no se ingresa DatoA, la distancia es Longitud(DatoB).
+Si no se ingresa DatoB, la distancia es Longitud(DAtoA).
+Si no se ingresa Datos, la distancia es 0.
 Si se ingresa DatoA y DatoB...
-Se recorre cada caracter de ambos datos, comparando su valores similares
-Y se cuenta los valores que no coincidan
+Se recorre cada caracter de ambos datos, comparando su valores similares.
+Y se cuenta los valores que no coincidan.
 -------------------------------------------------------------------------------
 Ejm:
 ;       DatoA = Camaron
@@ -22,6 +22,7 @@ Ejm:
 ;
 ;      Distancia de Levenshtein es 3  
 ;
+-------------------------------------------------------------------------------
 Ejm2:
 ;       DatoA = Camarones
 ;       DatoB = Cozador
